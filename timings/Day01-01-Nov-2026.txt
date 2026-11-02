@@ -1,0 +1,5 @@
+#Day1
+Wartch YouTube Videos on Pathnex to learn GitHub to EC2.
+Created AWS account and Launch Instance
+Created Git account and push Repo
+Learn About IP Addreses, OSI Layers and Domain.
