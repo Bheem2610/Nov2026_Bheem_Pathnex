@@ -1,0 +1,14 @@
+#Day-2 
+In today's class I learned about Linux command and overview
+Blow points are discussed in class
+
+Introduction to Operating Systems: Linux is presented as an operating system comparable to Windows, sharing common hardware foundations like CPU and RAM.
+Command Line Interface (CLI) vs. User Interface (UI): The course emphasizes the industry preference for CLI (terminals) over UI (clicking icons) for server management, as it is more efficient and powerful for administrative tasks.
+Core Linux Skills: The training covers essential system management tasks, including file and directory manipulation, understanding file permissions, and process management.
+System Troubleshooting: Students learn how to use diagnostic commands like top for monitoring system health, similar to a Task Manager in Windows.
+Career Guidance: The instructor outlines a clear roadmap to achieving high-paying roles (up to 31 LPA), stressing the importance of consistent practice and serious study.
+Professional Best Practices: The course advocates for the principle of "least privilege" in system administration to maintain security and avoid misconfiguration.
+
+
+
+
